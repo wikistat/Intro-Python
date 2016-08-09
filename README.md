@@ -11,9 +11,9 @@ L'objectif de ces tutoriels sous la forme de calepins (*notebooks*) est d'introd
 
 Les documents ci-dessous sont des calepins (*notebooks*) à télécharger et ouvrir dans *Jupyter*.
 
-* [Introduction à Python pour  Calcul Scientifique - Statistique](http://wikistat.fr/Notebooks/Cal1-introPython.ipynb)
-* [Trafic de Données avec Python `Pandas`](http://wikistat.fr/Notebooks/Cal2-PythonPanda.ipynb)
-* [Graphiques en Python et autre tutoriels](http://wikistat.fr/Notebooks/Cal3-PythonGraphes.ipynb)
+* [Introduction à Python pour  Calcul Scientifique - Statistique](https://github.com/fylb3/Wikistat-Intro-Python/blob/master/Cal1-introPython.ipynb)
+* [Trafic de Données avec Python `Pandas`](https://github.com/fylb3/Wikistat-Intro-Python/blob/master/Cal2-PythonPandas.ipynb)
+* [Graphiques en Python et autre tutoriels](https://github.com/fylb3/Wikistat-Intro-Python/blob/master/Cal3-PythonGraphes.ipynb)
 * [Programmation élémentaire en Python](http://wikistat.fr/Notebooks/Cal4-PythonProgram.ipynb)
-* [Apprentissage Statistique et/ou Machine avec Python `Scikit-Learn`](http://wikistat.fr/Notebooks/Cal5-PythonSklearn.ipynb)
+* [Apprentissage Statistique et/ou Machine avec Python `Scikit-Learn`](https://github.com/fylb3/Wikistat-Intro-Python/blob/master/Cal5-PythonSklearn.ipynb)
 * [Apprentissage de Spark avec PySpark](http://wikistat.fr/Notebooks/Cal6-PythonSpark.ipynb)
