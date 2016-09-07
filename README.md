@@ -4,7 +4,7 @@ L'objectif de ces tutoriels, proposés sous forme de calepins ([*jupyter noteboo
 
 Les documents ci-dessous sont des calepins (*notebooks*) au format .ipynb à télécharger et ouvrir dans *Jupyter*.
 
-* [Introduction à Python pour  Calcul Scientifique - Statistique](https://github.com/wikistat/Wikistat-Intro-Python/blob/master/Cal1-introPython.ipynb)
+* [Introduction à Python pour  Calcul Scientifique - Statistique](https://github.com/wikistat/Intro-Python/blob/master/Cal1-introPython.ipynb)
 * [Trafic de Données avec Python `Pandas`](https://github.com/wikistat/Intro-Python/blob/master/Cal2-PythonPandas.ipynb)
 * [Graphiques en Python](https://github.com/wikistat/Intro-Python/blob/master/Cal3-PythonGraphes.ipynb)
 * [Programmation plus élaborée en Python](http://wikistat.fr/Notebooks/Cal4-PythonProgram.ipynb)
