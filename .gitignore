@@ -1,2 +1,4 @@
 .DS_Store
-
+*.gz
+**/.ipynb_checkpoints/
+.ipynb_checkpoints/
