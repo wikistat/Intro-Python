@@ -11,6 +11,7 @@ Les documents sont des calepins (*notebooks*) au format .ipynb à télécharger 
 - [`Cal3-PythonGraphes`](https://github.com/wikistat/Intro-Python/blob/master/Cal3-PythonGraphes.ipynb) Syntaxes de bases pour des graphes en Python.
 - [`Cal4-PythonProg`](https://github.com/wikistat/Intro-Python/blob/master/Cal4-PythonProg.ipynb) Programmation, fonction, classes, objets.
 - [`Cal5-PythonSklearn`](https://github.com/wikistat/Intro-Python/blob/master/Cal5-PythonSklearn.ipynb) Statistique, modélisation apprentissage avec Scikit-learn.
+
 ## Pourquoi [Python](https://www.python.org/)
 
 Le langage [Python](https://www.python.org/) est développé et diffusé par la [*Python Software Foundation*](https://www.python.org/psf/) selon une licence [GPL-compatible](https://docs.python.org/3/license.html). À partir d'applications initialement de calcul scientifique (image, signal...), son utilisation s'est généralisée dans de nombreux domaines et notamment pour l'analyse statistique de données pouvant être volumineuses. Il est donc "libre", efficace en calcul numérique (librairie `NumPy`), orienté objet, propose de la programmation fonctionnelle... et bénéficie d'une communauté très active qui développe de nombreuses applications et librairies. 
