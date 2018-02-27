@@ -11,9 +11,8 @@ Les documents sont des calepins (*notebooks*) au format .ipynb à télécharger 
 - [`Cal1-introPython`](https://github.com/wikistat/Intro-Python/blob/master/Cal1-introPython.ipynb) La syntaxe, les objects et classes de Pyhton. Initiation au langage.
 - [`Cal2-PythonPandas`](https://github.com/wikistat/Intro-Python/blob/master/Cal2-PythonPandas.ipynb). Trafic de données (*data munging*) avec pandas.
 - [`Cal3-PythonGraphes`](https://github.com/wikistat/Intro-Python/blob/master/Cal3-PythonGraphes.ipynb) Syntaxes de base pour des graphes en Python.
-- [`Cal4-PythonSklearnExplo`](https://github.com/wikistat/Intro-Python/blob/master/Cal4-PythonSklearnExplo.ipynb) Exploration statistique avec Python et Scikit-learn.
-- [`Cal5-PythonProg`](https://github.com/wikistat/Intro-Python/blob/master/Cal5-PythonProg.ipynb) Programmation, classes, objets, programmation fonctionnelle.
-- [`Cal6-PythonSklearnApprent`](https://github.com/wikistat/Intro-Python/blob/master/Cal6-PythonSklearnApprent.ipynb) Modélisation Statistique et apprentissage machine avec Scikit-learn.
+- [`Cal4-PythonProg`](https://github.com/wikistat/Intro-Python/blob/master/Cal4-PythonProg.ipynb) Programmation, classes, objets, programmation fonctionnelle.
+- [`Cal5-PythonSklearnApprent`](https://github.com/wikistat/Intro-Python/blob/master/Cal5-PythonSklearnApprent.ipynb) Introduction à la modélisation Statistique et à l'apprentissage machine avec Scikit-learn; construction de *pipelines*.
 
 ## Pourquoi [Python](https://www.python.org/)
 
