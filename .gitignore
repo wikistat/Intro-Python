@@ -2,3 +2,11 @@
 *.gz
 **/.ipynb_checkpoints/
 .ipynb_checkpoints/
+__init__.py
+__pycache__/
+data.csv
+data.npy
+filename.png
+testM.py
+titan.h5
+titan_tree.png
